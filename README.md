@@ -8,14 +8,13 @@
  ▀▄█▄▀         ▀▄▄▄▀         ▀▄▄▀█         ▀█▄██         ▀█▄█▀ 
    █
                                                                                                                
-```
+``` 
 
 code that runs itself. no permission required.
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-00ff00.svg)
 ![Built with React](https://img.shields.io/badge/Built%20with-React-00ff00)
 ![Styled with Tailwind](https://img.shields.io/badge/Styled%20with-Tailwind-00ff00)
-![Status: LIVE](https://img.shields.io/badge/Status-LIVE-00ff00.svg)
 
 **Official Launch:** December 22, 2025 at 10 PM EST
 

@@ -1,15 +1,16 @@
-# $SUDO
+# $sudo
 
-```
-███████╗██╗   ██╗██████╗  ██████╗
-██╔════╝██║   ██║██╔══██╗██╔═══██╗
-███████╗██║   ██║██║  ██║██║   ██║
-╚════██║██║   ██║██║  ██║██║   ██║
-███████║╚██████╔╝██████╔╝╚██████╔╝
-╚══════╝ ╚═════╝ ╚═════╝  ╚═════╝
+```                                                               
+   ▄                                           █               
+ ▄▀█▀▄          ▄▄▄          ▄   ▄          ▄▄▄█          ▄▄▄  
+ █▄█           █   ▀         █   █         █▀ ▀█         █▀ ▀█ 
+   █▀█          ▀▀▀▄         █   █         █   █         █   █ 
+ ▀▄█▄▀         ▀▄▄▄▀         ▀▄▄▀█         ▀█▄██         ▀█▄█▀ 
+   █
+                                                                                                               
 ```
 
-> code that runs itself. no permission required.
+code that runs itself. no permission required.
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-00ff00.svg)
 ![Built with React](https://img.shields.io/badge/Built%20with-React-00ff00)
@@ -18,7 +19,7 @@
 
 **Official Launch:** December 22, 2025 at 10 PM EST
 
----
+
 
 ## TRANSMISSION BEGIN
 

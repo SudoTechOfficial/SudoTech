@@ -260,11 +260,6 @@ sudo/
 
 Create a `.env` file:
 
-```env
-VITE_SUPABASE_URL=your_supabase_url
-VITE_SUPABASE_ANON_KEY=your_supabase_anon_key
-```
-
 Without these, the network stats commands won't work. Everything else functions fine offline.
 
 ## CONTRIBUTING (IF YOU'RE SERIOUS)
@@ -420,8 +415,6 @@ You're early. Or you're late. Time will tell which one.
 
 Type `sudo make me` and see what happens.
 
----
-
 ```
 © 2025 $sudo. All rights reserved.
 
@@ -436,8 +429,6 @@ protocol: SUDO
 
 no retreat. no surrender. no off switch.
 ```
-
----
 
 **BEGIN TRANSMISSION**
 
